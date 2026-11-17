@@ -1,5 +1,5 @@
 # Maven Spring Boot Back-End and React Front-End Template
-A Full-Stack template using a **Spring Boot** Back-End and a **React** Front-End that is installed and unit tested using Vite, integrated into a single maven-managed Project.
+A Full-Stack template using a **Spring Boot** Back-End and a **React** Front-End that is installed and unit tested using Vite, integrated into a single Maven-managed project.
 
 ## Usage
 The Template can be used in two ways:
