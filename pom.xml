@@ -13,7 +13,7 @@
     </parent>
     
     <groupId>org.example</groupId>
-    <artifactId>React-Spring-Boot</artifactId>
+    <artifactId>NAS-note-collaboration</artifactId>
 	<version>0.0-SNAPSHOT</version>
 	<properties>
 		<frontend-src-dir>${basedir}/src/main/frontend</frontend-src-dir>
